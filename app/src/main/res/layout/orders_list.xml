@@ -11,8 +11,10 @@
     <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/listView2"
+        android:id="@+id/lvOrderList"
         android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="0.5dp"/>
 
 </RelativeLayout>

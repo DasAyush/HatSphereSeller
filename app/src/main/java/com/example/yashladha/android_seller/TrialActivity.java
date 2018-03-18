@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class TrialActivity extends AppCompatActivity {
 
     ImageView logo;
     TextView tvYou,tvTrial,tvWanna;
